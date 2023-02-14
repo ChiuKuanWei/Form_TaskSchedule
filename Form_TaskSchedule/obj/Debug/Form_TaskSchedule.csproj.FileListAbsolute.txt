@@ -1,0 +1,13 @@
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\bin\Debug\Form_TaskSchedule.exe.config
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\bin\Debug\Form_TaskSchedule.exe
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\bin\Debug\Form_TaskSchedule.pdb
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.csproj.SuggestedBindingRedirects.cache
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.Form1.resources
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.Properties.Resources.resources
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.csproj.GenerateResource.cache
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.csproj.CoreCompileInputs.cache
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.exe
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.pdb
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.frm_NotifySet.resources
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Interop.WMPLib.dll
+C:\C# Project\Form_TaskSchedule\Form_TaskSchedule\obj\Debug\Form_TaskSchedule.csproj.ResolveComReference.cache
